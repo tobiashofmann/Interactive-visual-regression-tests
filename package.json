@@ -1,0 +1,26 @@
+{
+  "name": "de.itsfullofstars.testing.visual",
+  "version": "1.0.0",
+  "description": "Sample visual testing app using Chrome recorded test as source.",
+  "main": "index.js",
+  "scripts": {
+    "test": "backstop test"
+  },
+  "keywords": [
+    "visual",
+    "testing",
+    "ui",
+    "test",
+    "backstopjs",
+    "ui5",
+    "fiori",
+    "fiori",
+    "elements",
+    "puppeteer"
+  ],
+  "author": "Tobias Hofmann",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "backstopjs": "^6.3.25"
+  }
+}
